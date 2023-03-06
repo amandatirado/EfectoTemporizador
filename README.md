@@ -20,7 +20,7 @@ Para crear este proyecto he usado:
 * [Porfolio web](http://www.amandatirado.com)
 
 ## Ver ejemplo en vivo 
-- [Ver Demo](https://amandatirado.com/practicas/numero%creciente/index.html)
+- [Ver Demo](https://amandatirado.com/practicas/numero%20creciente/index.html)
 
 ## Contratación
 Si quieres contratarme puedes escribirme a amandatiradoanula@gmail.com para consultas.
